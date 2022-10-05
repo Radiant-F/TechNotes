@@ -1,0 +1,3 @@
+username: Radiant
+password: yT5xu7eDjRXEcFEN
+permission: read & write
